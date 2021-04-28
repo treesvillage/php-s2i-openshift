@@ -25,7 +25,7 @@
       <div class="control">
         <div class="brand">
           <img class="logo" src="/images/fictional.svg" alt="example health logo">
-          <div class="Fictional">Example Health 2021-04-14-dojo</div>
+          <div class="Fictional">Example Health 2021-04-28-dojo</div>
         </div>
         <menu class="menu">
           <menuitem class="lit">management console</menuitem>
